@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+vendor/
+*.log
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Local config
+.env
+.env.local
